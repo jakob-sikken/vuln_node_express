@@ -1,0 +1,15 @@
+# HawkScan 2.1.1
+# vuln_node_express Application specific config
+# Completed: 1648050190439
+
+app:
+  host: http://localhost:3000/
+  antiCsrfParam: ""
+  api: ""
+  appDataType: unknown
+  riskLevel: MEDIUM
+  contactEmail: ""
+  applicationId: 3478720b-5837-41d7-bafa-a00ae0762448
+  env: Pre-Production
+  autoPolicy: false
+  autoInputVectors: false
